@@ -13,10 +13,10 @@ section{
 }
 .side-format{
     width: 50%;
-    padding: 2%;
+    padding: 5%;
 }
 .side-format img{
-    width: 80%;
+    width: 100%;
 }
 .link-button{
     text-decoration: none;
@@ -31,4 +31,9 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.add-dream{
+    background-position: right;
+    background-repeat: no-repeat;
+    background-image: url(images/dream-bg.png);
 }
