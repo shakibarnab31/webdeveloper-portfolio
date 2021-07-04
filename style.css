@@ -1,15 +1,18 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
 }
 h1{
     font-size: 50px;
+    
 }
+
 .orrange-color{
     color: orange;
 }
-section{
+.new-flex{
     display: flex;
-   
+    
 }
 .side-format{
     width: 50%;
